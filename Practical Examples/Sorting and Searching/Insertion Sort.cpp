@@ -45,6 +45,9 @@ void main ()
         cin>>ch;
         switch(ch)
         { Case : for (i=o)
+            Case : for (i=o)
+                Case : for (i=o)
+                    Case : for (i=o)
 
         }
 
