@@ -34,6 +34,19 @@ float calc (time_t end, time_t start)
     return (time);
 }
 
-void main (
-    
-)
+void main ()
+{float ta,tb,tw;
+    int val=0,avg[3000],best[3000],worst[3000];
+    do{
+        cout<<"Enter numbers of Elements";
+        cin>>val;
+        cout<<"\n Best Case \n Average Case \n Worst Case \n Exit \n";
+        cout<<"Enter your choice";
+        cin>>ch;
+        switch(ch)
+        { Case : for (i=o)
+
+        }
+
+    }
+}
