@@ -47,18 +47,23 @@ void main ()
         { Case : for (i=o;i<n;i++)
                  { a[i]=i;
                  }
-                 insert a,n; break
+                 insert a,n;
+         break
           Case : for (i=o;i<n;i++)
                    { a[i]=i;
                    }
-                 insert a,n; break
+                 insert a,n;
+         break
           Case : for (i=o;i<n;i++)
                  { a[i]=i;
                  }
-                 insert a,n; break
+                 insert a,n;
+         break
           default : cout<<"Wrong Choice";
                    exit 
+                       
         }
 
     }
+ getch;
 }
