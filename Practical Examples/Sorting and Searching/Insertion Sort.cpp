@@ -44,11 +44,20 @@ void main ()
         cout<<"Enter your choice";
         cin>>ch;
         switch(ch)
-        { Case : for (i=o)
-            Case : for (i=o)
-                Case : for (i=o)
-                    Case : for (i=o)
-
+        { Case : for (i=o;i<n;i++)
+                 { a[i]=i;
+                 }
+                 insert a,n; break
+          Case : for (i=o;i<n;i++)
+                   { a[i]=i;
+                   }
+                 insert a,n; break
+          Case : for (i=o;i<n;i++)
+                 { a[i]=i;
+                 }
+                 insert a,n; break
+          default : cout<<"Wrong Choice";
+                   exit 
         }
 
     }
