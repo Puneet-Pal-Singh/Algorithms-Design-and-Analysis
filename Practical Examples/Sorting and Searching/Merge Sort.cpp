@@ -6,13 +6,13 @@
 #include<stdlib.h>
 using namespace std;
 
-void display(int *array, int size) 
+void display(int array[], int size) 
 {
    for(int i = 0; i<size; i++)
       cout << array[i] << " ";
    cout << endl;
 }
-void merge(int *array, int l, int m, int r) 
+void merge(int array[], int l, int m, int r) 
 {
    int i, j, k, nl, nr;
    //size of left and right sub-arrays
